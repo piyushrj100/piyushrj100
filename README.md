@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 -[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushrj100&langs_count=5&theme=tokyonight)]()
 -->
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=piyushrj100&count_private=true&show_icons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushrj100&langs_count=5)]()
-[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyushrj100)](https://git.io/streak-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=piyushrj100&count_private=true&show_icons=true&count_private=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushrj100&langs_count=5&count_private=true)]()
+[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyushrj100&count_private=true)](https://git.io/streak-stats)
 
 
 
