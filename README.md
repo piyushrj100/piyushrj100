@@ -1,6 +1,8 @@
 ### Hi there 👋
-🔭 I’m currently working on python related projects
-🌱 I’m currently learning python and data structures 
+🔭 I’m currently working on python related projects.
+
+🌱 I’m currently learning python and data structures.
+
 👯 I’m looking to collaborate on open source projects in python.
 
 <!--
