@@ -1,10 +1,10 @@
 ### Hi there 👋
-🔭 I’m currently working on python related projects.
 
-🌱 I’m currently learning python and data structures.
+Having professional experience in Computer Networking and BFSI domain involving technologies like python, Oracle SQL, shell scripting and automation.My other skill set include AWS, Docker, Java, Android development  and Twitter API.
 
-👯 I’m looking to collaborate on open source projects in python.
+Currently learning more about python and related frameworks and DSA to strengthen my problem solving skills.
 
+Looking to collaborate on open source python projects. 
 <!--
 **piyushrj100/piyushrj100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
