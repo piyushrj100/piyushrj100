@@ -1,21 +1,22 @@
 ### Hi there 👋
 
-Having professional experience in Computer Networking and BFSI domain involving technologies like python, Oracle SQL, shell scripting and automation.My other skill set include AWS, Docker, Java, Android development  and Twitter API.
-
-Currently learning more about python and related frameworks and DSA to strengthen my problem solving skills.
-
-Looking to collaborate on open source python projects. 
+- 🔭 I’m currently working on flask poject
+- 🌱 I’m currently learning Django Framework
+- 👯 I’m looking to collaborate on python open source projects
+- 🤔 I’m looking for help with 
+- 💬 Ask me about python, SQL, shell scritipting,Twitter APi/tweepy, Data Structures and Algorithm
+ 
 <!--
 **piyushrj100/piyushrj100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on flask poject
+- 🌱 I’m currently learning Django Framework
+- 👯 I’m looking to collaborate on python open source projects
+- 🤔 I’m looking for help with 
+- 💬 Ask me about python, SQL, shell scritipting,Twitter APi/tweepy, Data Structures and Algorithm
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
