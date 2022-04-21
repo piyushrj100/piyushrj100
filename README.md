@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on python open source projects.
 - 🤔 I’m looking for help with coding and open source projects.
 - 💬 Ask me about python, SQL, shell scritipting, Linux, Twitter API/tweepy, Data Structures and Algorithms.
-- ✨ Languages/Tools and Technologies I know :
+- ✨ Languages and Tools/Technologies I know :
  
 [![My GitHub Stats](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![My GitHub Stats](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
