@@ -5,6 +5,11 @@
 - 👯 I’m looking to collaborate on python open source projects
 - 🤔 I’m looking for help with 
 - 💬 Ask me about python, SQL, shell scritipting,Twitter APi/tweepy, Data Structures and Algorithm
+- ![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
+- https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
+- <img src="{https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white}" />
+
+
  
 <!--
 **piyushrj100/piyushrj100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
