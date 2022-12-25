@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning REACT. 
 - 👯 I’m looking to collaborate on python open source projects.
 - 🤔 I’m looking for help with coding and open source projects.
-- 💬 Ask me about python, Django, System Design, SQL, shell scritipting, Linux, Twitter API/tweepy, Data Structures and Algorithms.
+- 💬 Ask me about python, Django,data analysis System Design, SQL, shell scritipting, Linux, Twitter API/tweepy, Data Structures and Algorithms.
 - ✨ Languages and Tools/Technologies I know :
  
 [![My GitHub Stats](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
