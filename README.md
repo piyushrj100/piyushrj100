@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on REST API creation using DJango Rest Framework.
-- 🌱 I’m currently learning and practicing DSA coding.
+- 🔭 I’m currently working on data analytics project in my organisation.
+- 🌱 I’m currently learning REACT. 
 - 👯 I’m looking to collaborate on python open source projects.
 - 🤔 I’m looking for help with coding and open source projects.
 - 💬 Ask me about python, SQL, shell scritipting, Linux, Twitter API/tweepy, Data Structures and Algorithms.
